@@ -151,7 +151,7 @@ const char* GetOpName(opcodetype opcode)
     case OP_RETURN                 : return "OP_RETURN";
 
     // stack ops
-    case OP_WincoinLTSTACK             : return "OP_WincoinLTSTACK";
+    case OP_WincoinClassicLTSTACK             : return "OP_WincoinClassicLTSTACK";
     case OP_FROMALTSTACK           : return "OP_FROMALTSTACK";
     case OP_2DROP                  : return "OP_2DROP";
     case OP_2DUP                   : return "OP_2DUP";
@@ -469,7 +469,7 @@ bool EvalScript(vector<vector<unsigned char> >& stack, const CScript& script, co
                 //
                 // Stack ops
                 //
-                case OP_WincoinLTSTACK:
+                case OP_WincoinClassicLTSTACK:
                 {
                     if (stack.size() < 1)
                         return false;

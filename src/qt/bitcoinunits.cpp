@@ -45,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("Wincoins");
-    case mBTC: return QString("Milli-Wincoins (1 / 1,000)");
-    case uBTC: return QString("Micro-Wincoins (1 / 1,000,000)");
+    case BTC: return QString("Wincoin Classics");
+    case mBTC: return QString("Milli-Wincoin Classics (1 / 1,000)");
+    case uBTC: return QString("Micro-Wincoin Classics (1 / 1,000,000)");
     default: return QString("???");
     }
 }

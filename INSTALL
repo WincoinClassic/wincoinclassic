@@ -1,9 +1,9 @@
-Building Wincoin
+Building Wincoin Classic
 
-See doc/readme-qt.rst for instructions on building Wincoin QT,
+See doc/readme-qt.rst for instructions on building Wincoin Classic QT,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Wincoin.
+implementation of Wincoin Classic.
 
 See doc/build-*.txt for instructions on building wincoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Wincoin.
+implementation of Wincoin Classic.

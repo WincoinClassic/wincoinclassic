@@ -102,7 +102,7 @@ enum opcodetype
     OP_RETURN = 0x6a,
 
     // stack ops
-    OP_WincoinLTSTACK = 0x6b,
+    OP_WincoinClassicLTSTACK = 0x6b,
     OP_FROMALTSTACK = 0x6c,
     OP_2DROP = 0x6d,
     OP_2DUP = 0x6e,

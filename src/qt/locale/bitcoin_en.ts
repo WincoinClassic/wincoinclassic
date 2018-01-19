@@ -5,19 +5,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Wincoin</source>
-        <translation>About Wincoin</translation>
+        <source>About Wincoin Classic</source>
+        <translation>About Wincoin Classic</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Wincoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Wincoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;Wincoin Classic&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Wincoin Classic&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Wincoin developers</source>
+Copyright © 2014 The Wincoin Classic developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -65,8 +65,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Wincoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>These are your Wincoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
+        <source>These are your Wincoin Classic addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>These are your Wincoin Classic addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Wincoin address</source>
-        <translation>Sign a message to prove you own a Wincoin address</translation>
+        <source>Sign a message to prove you own a Wincoin Classic address</source>
+        <translation>Sign a message to prove you own a Wincoin Classic address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Wincoin address</source>
-        <translation>Verify a message to ensure it was signed with a specified Wincoin address</translation>
+        <source>Verify a message to ensure it was signed with a specified Wincoin Classic address</source>
+        <translation>Verify a message to ensure it was signed with a specified Wincoin Classic address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>Wincoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Wincoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
+        <source>Wincoin Classic will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Wincoin Classic will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Wincoin</source>
-        <translation>Show information about Wincoin</translation>
+        <source>Show information about Wincoin Classic</source>
+        <translation>Show information about Wincoin Classic</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -430,13 +430,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Wincoin address</source>
-        <translation>Send coins to a Wincoin address</translation>
+        <source>Send coins to a Wincoin Classic address</source>
+        <translation>Send coins to a Wincoin Classic address</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Wincoin</source>
-        <translation>Modify configuration options for Wincoin</translation>
+        <source>Modify configuration options for Wincoin Classic</source>
+        <translation>Modify configuration options for Wincoin Classic</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -475,8 +475,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>Wincoin</source>
-        <translation>Wincoin</translation>
+        <source>Wincoin Classic</source>
+        <translation>Wincoin Classic</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -485,8 +485,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Wincoin</source>
-        <translation>&amp;About Wincoin</translation>
+        <source>&amp;About Wincoin Classic</source>
+        <translation>&amp;About Wincoin Classic</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -542,15 +542,15 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Wincoin client</source>
-        <translation>Wincoin client</translation>
+        <source>Wincoin Classic client</source>
+        <translation>Wincoin Classic client</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Wincoin network</source>
+        <source>%n active connection(s) to Wincoin Classic network</source>
         <translation>
-            <numerusform>%n active connection to Wincoin network</numerusform>
-            <numerusform>%n active connections to Wincoin network</numerusform>
+            <numerusform>%n active connection to Wincoin Classic network</numerusform>
+            <numerusform>%n active connections to Wincoin Classic network</numerusform>
         </translation>
     </message>
     <message>
@@ -677,8 +677,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Wincoin address or malformed URI parameters.</source>
-        <translation>URI can not be parsed! This can be caused by an invalid Wincoin address or malformed URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Wincoin Classic address or malformed URI parameters.</source>
+        <translation>URI can not be parsed! This can be caused by an invalid Wincoin Classic address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -749,8 +749,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Wincoin can no longer continue safely and will quit.</source>
-        <translation>A fatal error occurred. Wincoin can no longer continue safely and will quit.</translation>
+        <source>A fatal error occurred. Wincoin Classic can no longer continue safely and will quit.</source>
+        <translation>A fatal error occurred. Wincoin Classic can no longer continue safely and will quit.</translation>
     </message>
 </context>
 <context>
@@ -1069,8 +1069,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Wincoin address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid Wincoin address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Wincoin Classic address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid Wincoin Classic address.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1088,8 +1088,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Wincoin-Qt</source>
-        <translation>Wincoin-Qt</translation>
+        <source>WincoinClassic-Qt</source>
+        <translation>WincoinClassic-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1161,13 +1161,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Wincoin after logging in to the system.</source>
-        <translation>Automatically start Wincoin after logging in to the system.</translation>
+        <source>Automatically start Wincoin Classic after logging in to the system.</source>
+        <translation>Automatically start Wincoin Classic after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Wincoin on system login</source>
-        <translation>&amp;Start Wincoin on system login</translation>
+        <source>&amp;Start Wincoin Classic on system login</source>
+        <translation>&amp;Start Wincoin Classic on system login</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1186,8 +1186,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Wincoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the Wincoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the Wincoin Classic client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the Wincoin Classic client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1196,8 +1196,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Wincoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connect to the Wincoin network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
+        <source>Connect to the Wincoin Classic network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connect to the Wincoin Classic network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1271,8 +1271,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Wincoin.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting Wincoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Wincoin Classic.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting Wincoin Classic.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1286,8 +1286,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Wincoin addresses in the transaction list or not.</source>
-        <translation>Whether to show Wincoin addresses in the transaction list or not.</translation>
+        <source>Whether to show Wincoin Classic addresses in the transaction list or not.</source>
+        <translation>Whether to show Wincoin Classic addresses in the transaction list or not.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1333,8 +1333,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Wincoin.</source>
-        <translation>This setting will take effect after restarting Wincoin.</translation>
+        <source>This setting will take effect after restarting Wincoin Classic.</source>
+        <translation>This setting will take effect after restarting Wincoin Classic.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1352,8 +1352,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Wincoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Wincoin network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Wincoin Classic network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Wincoin Classic network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1568,8 +1568,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Wincoin-Qt help message to get a list with possible Wincoin command-line options.</source>
-        <translation>Show the Wincoin-Qt help message to get a list with possible Wincoin command-line options.</translation>
+        <source>Show the WincoinClassic-Qt help message to get a list with possible Wincoin Classic command-line options.</source>
+        <translation>Show the WincoinClassic-Qt help message to get a list with possible Wincoin Classic command-line options.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1588,13 +1588,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Wincoin - Debug window</source>
-        <translation>Wincoin - Debug window</translation>
+        <source>Wincoin Classic - Debug window</source>
+        <translation>Wincoin Classic - Debug window</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Wincoin Core</source>
-        <translation>Wincoin Core</translation>
+        <source>Wincoin Classic Core</source>
+        <translation>Wincoin Classic Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1603,8 +1603,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Wincoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the Wincoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the Wincoin Classic debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the Wincoin Classic debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1613,8 +1613,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Wincoin RPC console.</source>
-        <translation>Welcome to the Wincoin RPC console.</translation>
+        <source>Welcome to the Wincoin Classic RPC console.</source>
+        <translation>Welcome to the Wincoin Classic RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1772,8 +1772,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Wincoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Enter a Wincoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Wincoin Classic address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Enter a Wincoin Classic address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1872,7 +1872,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Wincoin address</source>
+        <source>WARNING: Invalid Wincoin Classic address</source>
         <translation></translation>
     </message>
     <message>
@@ -1946,8 +1946,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Wincoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Enter a Wincoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Wincoin Classic address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Enter a Wincoin Classic address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2007,8 +2007,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Wincoin address</source>
-        <translation>Sign the message to prove you own this Wincoin address</translation>
+        <source>Sign the message to prove you own this Wincoin Classic address</source>
+        <translation>Sign the message to prove you own this Wincoin Classic address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2039,8 +2039,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Wincoin address</source>
-        <translation>Verify the message to ensure it was signed with the specified Wincoin address</translation>
+        <source>Verify the message to ensure it was signed with the specified Wincoin Classic address</source>
+        <translation>Verify the message to ensure it was signed with the specified Wincoin Classic address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2050,8 +2050,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Wincoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Enter a Wincoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Wincoin Classic address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Enter a Wincoin Classic address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2060,8 +2060,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Wincoin signature</source>
-        <translation>Enter Wincoin signature</translation>
+        <source>Enter Wincoin Classic signature</source>
+        <translation>Enter Wincoin Classic signature</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2643,8 +2643,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Wincoin version</source>
-        <translation>Wincoin version</translation>
+        <source>Wincoin Classic version</source>
+        <translation>Wincoin Classic version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2828,8 +2828,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Wincoin will not work properly.</source>
-        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Wincoin will not work properly.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Wincoin Classic will not work properly.</source>
+        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Wincoin Classic will not work properly.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3023,7 +3023,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Wincoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Wincoin Classic Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"></translation>
     </message>
@@ -3149,13 +3149,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Wincoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Wincoin is probably already running.</source>
-        <translation>Cannot obtain a lock on data directory %s.  Wincoin is probably already running.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Wincoin Classic is probably already running.</source>
+        <translation>Cannot obtain a lock on data directory %s.  Wincoin Classic is probably already running.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Wincoin</source>
-        <translation>Wincoin</translation>
+        <source>Wincoin Classic</source>
+        <translation>Wincoin Classic</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3189,13 +3189,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Wincoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Wincoin</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of Wincoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Wincoin Classic</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of Wincoin Classic</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Wincoin to complete</source>
-        <translation>Wallet needed to be rewritten: restart Wincoin to complete</translation>
+        <source>Wallet needed to be rewritten: restart Wincoin Classic to complete</source>
+        <translation>Wallet needed to be rewritten: restart Wincoin Classic to complete</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3264,8 +3264,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Wincoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Wincoin is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. Wincoin is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. Wincoin Classic is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. Wincoin Classic is probably already running.</translation>
     </message>
     <message>
         <location line="-97"/>
